@@ -1,0 +1,68 @@
+@import "_colors.css";
+@import "_fonts.css";
+@import "_global.css";
+
+/* 
+===============
+CSS Resets
+===============
+*/
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  font-family: var(--ff-primary);
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: var(--clr-grey-1);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--ff-primary);
+  line-height: 1.25;
+  letter-spacing: var(--spacing);
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+}
+
+h4 {
+  font-size: 0.875rem;
+}
+
+p {
+  color: var(--clr-grey-5);
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  width: 100%;
+  display: block;
+}

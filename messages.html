@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles/messages.css" />
+    <title>Messages</title>
+  </head>
+  <body>
+    <div class="container">
+      <!-- HEADER starts -->
+      <header class="container__header">
+        <div id="back-btn" class="container__header__icon">
+          <i class="fas fa-arrow-left"></i>
+        </div>
+
+        <div class="container__header__user-details">
+          <h3>Ajala Ojo</h3>
+          <div class="user-active">
+            <span>Active now</span>
+            <span class="container__header__icon active-user-icon"
+              ><i class="fas fa-circle"></i
+            ></span>
+          </div>
+        </div>
+
+        <div class="container__header__icon more-icon">
+          <i class="fas fa-ellipsis-h"></i>
+        </div>
+      </header>
+      <!-- HEADER ends -->
+    </div>
+
+    <!-- MAIN content starts -->
+    <main>
+      <!-- MESSAGES LIST SECTION starts -->
+      <section id="messages-list" class="messages-list"></section>
+      <!-- MESSAGES LIST SECTION starts -->
+
+      <!-- NEW MESSAGE SECTION starts -->
+      <section class="new-message">
+        <form class="new-message__form">
+          <div
+            class="new-message__input"
+            contenteditable="true"
+            placeholder="Type new message"
+            oninput="if(this.innerHTML.trim()==='<br>')this.innerHTML=''"
+          ></div>
+          <span class="new-message__icon send-icon">
+            <i class="far fa-paper-plane"></i>
+          </span>
+        </form>
+      </section>
+      <!-- NEW MESSAGE SECTION ends -->
+    </main>
+    <!-- MAIN content ends -->
+
+    <script src="./scripts/mesages.js" type="module"></script>
+  </body>
+</html>

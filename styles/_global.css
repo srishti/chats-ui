@@ -1,0 +1,18 @@
+/* 
+===============
+Font Awesome Icons
+===============
+*/
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css");
+
+:root {
+  /* shadows */
+  --light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  --dark-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+
+  /* global CSS variables for common CSS properties */
+  --spacing: 0.05rem;
+  --radius-low-curve: 0.5rem;
+  --radius-high-curve: 1.25rem;
+  --transition: all 0.3s linear;
+}

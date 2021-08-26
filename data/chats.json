@@ -1,0 +1,214 @@
+{
+  "chats": [
+    {
+      "firstName": "Petrina",
+      "lastName": "Insley",
+      "userId": "ef6d1646-228a-4bf5-96cf-b2ff79949ab6",
+      "userProfilePicture": "https://randomuser.me/api/portraits/women/77.jpg",
+      "unread": 2,
+      "isFavourite": false,
+      "recentMessage": {
+        "messageId": "442791e5-d1b6-477c-8567-12e64299d71c",
+        "senderId": "ef6d1646-228a-4bf5-96cf-b2ff79949ab6",
+        "receiverId": "43387177-eaee-4a00-b9c1-19069734c9c5",
+        "message": "Good morning",
+        "timestamp": 1629913125000
+      }
+    },
+    {
+      "firstName": "Steven",
+      "lastName": "Flohard",
+      "userId": "a7505e4c-f343-405a-ae96-7ba7ccb581dd",
+      "userProfilePicture": "https://randomuser.me/api/portraits/men/77.jpg",
+      "unread": 0,
+      "isFavourite": false,
+      "recentMessage": {
+        "messageId": "8f99883e-6404-47d1-81a8-d96a648a350c",
+        "senderId": "a7505e4c-f343-405a-ae96-7ba7ccb581dd",
+        "receiverId": "43387177-eaee-4a00-b9c1-19069734c9c5",
+        "message": "I will be there",
+        "timestamp": 1629913315000
+      }
+    },
+    {
+      "firstName": "Fritz",
+      "lastName": "Zywicki",
+      "userId": "4e98bb58-b819-45c6-8b18-a85823d39efb",
+      "userProfilePicture": "https://randomuser.me/api/portraits/men/75.jpg",
+      "unread": 5,
+      "isFavourite": false,
+      "recentMessage": {
+        "messageId": "90aaa635-8f35-43f6-8a18-f9f441e550c4",
+        "senderId": "4e98bb58-b819-45c6-8b18-a85823d39efb",
+        "receiverId": "43387177-eaee-4a00-b9c1-19069734c9c5",
+        "message": "Hi",
+        "timestamp": 1629913325000
+      }
+    },
+    {
+      "firstName": "Leyla",
+      "lastName": "Malby",
+      "userId": "c76ae062-f6b1-4f6a-8f46-84848ee85850",
+      "userProfilePicture": "https://randomuser.me/api/portraits/women/75.jpg",
+      "unread": 0,
+      "isFavourite": false,
+      "recentMessage": {
+        "messageId": "8364b22d-e9c4-4cb6-8eaa-8a0016bd5f15",
+        "senderId": "43387177-eaee-4a00-b9c1-19069734c9c5",
+        "receiverId": "c76ae062-f6b1-4f6a-8f46-84848ee85850",
+        "message": "Are you there?",
+        "timestamp": 1609473120000
+      }
+    },
+    {
+      "firstName": "Prateek",
+      "lastName": "Grover",
+      "userId": "e3a92ec3-1397-4741-9626-cf69da09050e",
+      "userProfilePicture": "https://randomuser.me/api/portraits/men/9.jpg",
+      "unread": 0,
+      "isFavourite": false,
+      "recentMessage": {
+        "messageId": "5fa99b49-c27c-44b4-905b-53128d621adb",
+        "senderId": "43387177-eaee-4a00-b9c1-19069734c9c5",
+        "receiverId": "e3a92ec3-1397-4741-9626-cf69da09050e",
+        "message": "Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor.",
+        "timestamp": 1609473110000
+      }
+    },
+    {
+      "firstName": "Pushpak",
+      "lastName": "Teja",
+      "userId": "a06b8d06-fe49-494e-846b-0d343244ba61",
+      "userProfilePicture": "https://randomuser.me/api/portraits/men/10.jpg",
+      "unread": 12,
+      "isFavourite": false,
+      "recentMessage": {
+        "messageId": "76922134-59ae-48b2-b7f5-4dc255a900fa",
+        "receiverId": "43387177-eaee-4a00-b9c1-19069734c9c5",
+        "senderId": "a06b8d06-fe49-494e-846b-0d343244ba61",
+        "message": "Nullam porttitor lacus at turpis.",
+        "timestamp": 1612887991000
+      }
+    },
+    {
+      "firstName": "Srishti",
+      "lastName": "Gupta",
+      "userId": "25eb28fb-36a8-410c-9ee5-61d926241295",
+      "userProfilePicture": "https://randomuser.me/api/portraits/women/2.jpg",
+      "unread": 9,
+      "isFavourite": false,
+      "recentMessage": {
+        "messageId": "a19d2c8d-bdf1-43da-954e-0509b355f407",
+        "senderId": "43387177-eaee-4a00-b9c1-19069734c9c5",
+        "receiverId": "25eb28fb-36a8-410c-9ee5-61d926241295",
+        "message": "Vivamus tortor. Duis mattis egestas metus.",
+        "timestamp": 1597995019000
+      }
+    },
+    {
+      "firstName": "Ravi",
+      "lastName": "Teja",
+      "userId": "54552d71-2726-43f2-ae09-406ad4f46a83",
+      "userProfilePicture": "https://randomuser.me/api/portraits/men/11.jpg",
+      "unread": 0,
+      "isFavourite": false,
+      "recentMessage": {
+        "messageId": "f7b838ca-24c1-4941-abf5-9f96f9932fdb",
+        "senderId": "43387177-eaee-4a00-b9c1-19069734c9c5",
+        "receiverId": "54552d71-2726-43f2-ae09-406ad4f46a83",
+        "message": "Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.",
+        "timestamp": 1607188891000
+      }
+    },
+    {
+      "firstName": "Akhila",
+      "lastName": "Chekuri",
+      "userId": "720ad43f-1da6-49e0-89b0-30c9199f5668",
+      "userProfilePicture": "https://randomuser.me/api/portraits/women/72.jpg",
+      "unread": 9,
+      "isFavourite": false,
+      "recentMessage": {
+        "messageId": "a27a0382-7e0e-4fd5-855e-e293fe5e35d8",
+        "receiverId": "43387177-eaee-4a00-b9c1-19069734c9c5",
+        "senderId": "720ad43f-1da6-49e0-89b0-30c9199f5668",
+        "message": "In hac habitasse platea dictumst. Etiam faucibus cursus urna.",
+        "timestamp": 1600390475000
+      }
+    },
+    {
+      "firstName": "Mirza",
+      "lastName": "Hashim",
+      "userId": "720ad43f-1ea6-49e0-89b0-30c9199f5668",
+      "userProfilePicture": "https://randomuser.me/api/portraits/men/15.jpg",
+      "unread": 0,
+      "isFavourite": false,
+      "recentMessage": {
+        "messageId": "0eddb528-a1fe-45fa-94dd-ddf7572bb15f",
+        "senderId": "43387177-eaee-4a00-b9c1-19069734c9c5",
+        "receiverId": "720ad43f-1ea6-49e0-89b0-30c9199f5668",
+        "message": "Vestibulum ac est lacinia nisi venenatis tristique.",
+        "timestamp": 1618979952000
+      }
+    },
+    {
+      "firstName": "Akhil",
+      "lastName": "Dad",
+      "userId": "721ad43f-1da6-49e0-89b0-30c9199f5668",
+      "userProfilePicture": "https://randomuser.me/api/portraits/men/20.jpg",
+      "unread": 2,
+      "isFavourite": true,
+      "recentMessage": {
+        "messageId": "d56717c0-cbd3-4f8e-bfd0-ffac43f42988",
+        "receiverId": "43387177-eaee-4a00-b9c1-19069734c9c5",
+        "senderId": "721ad43f-1da6-49e0-89b0-30c9199f5668",
+        "message": "Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",
+        "timestamp": 1597637291000
+      }
+    },
+    {
+      "firstName": "Pulkit",
+      "lastName": "Mittal",
+      "userId": "720ad43f-1da6-49e1-89b0-30c9199f5668",
+      "userProfilePicture": "https://randomuser.me/api/portraits/men/24.jpg",
+      "unread": 4,
+      "isFavourite": true,
+      "recentMessage": {
+        "messageId": "2e0dc096-c79b-48ef-adeb-2c464cead9ff",
+        "senderId": "43387177-eaee-4a00-b9c1-19069734c9c5",
+        "receiverId": "720ad43f-1da6-49e1-89b0-30c9199f5668",
+        "message": "In hac habitasse platea dictumst. Etiam faucibus cursus urna.",
+        "timestamp": 1603151745000
+      }
+    },
+    {
+      "firstName": "Jay",
+      "lastName": "Chawda",
+      "userId": "720ad43f-1da6-49e0-89b0-31c9199f5668",
+      "userProfilePicture": "https://randomuser.me/api/portraits/men/30.jpg",
+      "unread": 6,
+      "isFavourite": true,
+      "recentMessage": {
+        "messageId": "624c1c78-9edb-4c94-b42a-4bf5ec8d5a6d",
+        "senderId": "43387177-eaee-4a00-b9c1-19069734c9c5",
+        "receiverId": "720ad43f-1da6-49e0-89b0-31c9199f5668",
+        "message": "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",
+        "timestamp": 1608385215000
+      }
+    },
+    {
+      "firstName": "Rohit",
+      "lastName": "Shetty",
+      "userId": "720ad43f-1da6-49e0-89b1-31c9199f5668",
+      "userProfilePicture": "https://randomuser.me/api/portraits/men/35.jpg",
+      "unread": 1,
+      "isFavourite": true,
+      "recentMessage": {
+        "messageId": "06a9b84a-a940-491c-b1ed-9db690ff3450",
+        "receiverId": "43387177-eaee-4a00-b9c1-19069734c9c5",
+        "senderId": "720ad43f-1da6-49e0-89b1-31c9199f5668",
+        "message": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+        "timestamp": 1621626446000
+      }
+    }
+  ]
+}

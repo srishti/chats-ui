@@ -1,0 +1,11 @@
+:root {
+  --clr-primary: #7b14a3;
+  --clr-secondary: #2727a8;
+
+  /* base colors */
+  --clr-black: #000;
+  --clr-gray-dark: #777;
+  --clr-gray-light: #bbb;
+  --clr-gray-lighter: #ddd;
+  --clr-white: #fff;
+}

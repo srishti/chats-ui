@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles/common.css" />
+    <link rel="stylesheet" href="./styles/chats.css" />
+    <title>Chats</title>
+  </head>
+  <body>
+    <div class="container">
+      <!-- HEADER starts -->
+      <header class="container__header">
+        <span class="container__header__icon">
+          <i class="fas fa-arrow-left"></i>
+        </span>
+        <input
+          id="search"
+          class="container__header__searchbar"
+          type="search"
+          placeholder="Search"
+        />
+      </header>
+      <!-- HEADER ends -->
+
+      <!-- NAVBAR starts -->
+      <nav class="container__nav">
+        <ul class="container__nav__list">
+          <li class="active">
+            <a href="#"><h3>Messages</h3></a>
+          </li>
+          <li>
+            <a><h3>Calls</h3></a>
+          </li>
+          <li>
+            <a><h3>Groups</h3></a>
+          </li>
+        </ul>
+      </nav>
+      <!-- NAVBAR ends -->
+
+      <!-- MAIN content starts -->
+      <main>
+        <!-- FAVOURITES SECTION starts -->
+        <section class="favourites-section">
+          <h4>Favourites</h4>
+          <ul id="favourite-users" class="favourite-users"></ul>
+        </section>
+        <!-- FAVOURITES SECTION ends -->
+
+        <!-- CHATS LIST SECTION starts -->
+        <section class="chat-list-section">
+          <ul id="chats-list" class="chats-list"></ul>
+        </section>
+        <!-- CHATS LIST SECTION ends -->
+      </main>
+      <!-- MAIN content ends -->
+    </div>
+
+    <script src="./scripts/chats.js" type="module"></script>
+  </body>
+</html>
